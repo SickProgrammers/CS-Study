@@ -22,7 +22,7 @@ Computer Science Study 입니다.
 ## 📒주제
 
 - 자료구조/알고리즘
- - [Stack](https://github.com/SickProgrammers/CS-Study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Stack.md)
+  - [Stack](https://github.com/SickProgrammers/CS-Study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Stack.md)
 - 네트워크
 - 컴퓨터구조
 - 운영체제
